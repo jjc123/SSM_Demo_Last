@@ -38,6 +38,16 @@ http://codingcoge.cn/ssm-demo/login.html
 7. 大文件的分片上传和断点续传
 ```
 
+***
+因为实现了动静分离，
+可以通过访问服务器本地获取图片：
+```
+http://codingcoge.cn/static/
+```
+可以通过访问服务器本地获取大文件：就比如我的三个版本的项目源码
+```
+http://codingcoge.cn/file/
+```
 
 
 
