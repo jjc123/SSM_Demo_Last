@@ -10,18 +10,19 @@ http://codingcoge.cn/ssm-demo/login.html
 2. java框架：SSM
 3. 服务器：tomcat9实现集群分布和负载均衡
 4. 数据库：mysql6.7
-5. jar包管理：maven
-6. 数据库连接池：Druid
-7. 单元测试：juint4
-8. 静态服务器：nginx实现动静分离
-9. 第二方缓存：redis
-10. 前后台验证：Token
-11. 前后台数据交互方式：AJAX 异步技术和JSON
-12. 前台框架：AdminLTE3
-13. 分页技术：JqGrid
-14. 文件上传组件：WebUploader
-15. 文件的导入导出：POI 
-16. 部署环境：windows10，CentOs7
+5. 开发软件：idea
+6. jar包管理：maven
+7. 数据库连接池：Druid
+8. 单元测试：juint4
+9. 静态服务器：nginx实现动静分离
+10. 第二方缓存：redis
+11. 前后台验证：Token
+12. 前后台数据交互方式：AJAX 异步技术和JSON
+13. 前台框架：AdminLTE3
+14. 分页技术：JqGrid
+15. 文件上传组件：WebUploader
+16. 文件的导入导出：POI 
+17. 部署环境：windows10，CentOs7
 ```
 东西有点多……不过也算是一个比较完整的项目，也可以把这个当作雏形，自己往里面添加内容丰富。
 
